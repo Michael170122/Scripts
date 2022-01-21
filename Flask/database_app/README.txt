@@ -12,7 +12,7 @@ To run the application you'll have to open the terminal and run some commands:
 (In the main folder):
 "source venv/bin/activate"
 
-2."export FLASK_APP=main.py"
+2."export FLASK_APP=app.py"
 (do this every time you open a new terminal"
 
 3."flask run"
